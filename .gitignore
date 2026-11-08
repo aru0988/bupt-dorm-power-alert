@@ -1,0 +1,20 @@
+# 本地凭据与运行产物
+config.ini
+message_template.txt
+state.json
+logs/
+refresh_output.txt
+*.tmp
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+
+# 编辑器/系统
+.vscode/
+.idea/
+Thumbs.db
+Desktop.ini

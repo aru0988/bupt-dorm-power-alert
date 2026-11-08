@@ -1,0 +1,7 @@
+⚠️ 宿舍电量预警
+房间：{room}（{campus} {building} {floor}）
+剩余：{balance} 度（约 {money} 元，单价 {price} 元/度）
+近 7 天日均：{avg_usage} 度/天
+预计可用：约 {days_left} 天
+抄表时间：{reading_time}
+请及时充值
